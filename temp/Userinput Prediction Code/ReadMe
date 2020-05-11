@@ -1,0 +1,8 @@
+Before running the User Input please follow things:
+
+1.Change stopwords path
+2.Keep MultiLiModel.pkl file in your working environment
+3.Don't use image websites or low text websites
+4.Don't use http/https and www before url 
+5.Maintain above files in same environment
+
